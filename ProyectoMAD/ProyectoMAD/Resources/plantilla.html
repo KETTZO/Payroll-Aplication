@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Page Design</title>
+    <style type="text/css">
+        #r {
+            text-align: left;
+        }
+
+        td {
+            font-size: 80%;
+        }
+
+        table.border {
+            border-collapse: collapse;
+        }
+
+            table.border td {
+                padding: 5px;
+                border: 2px solid black;
+            }
+
+            table.border th {
+                padding: 5px;
+                border: 2px solid black;
+            }
+
+        #x {
+            width: 20%;
+        }
+
+        #z{
+            text-align: center;
+        }
+        #w{
+            padding: 80px
+        }
+        
+    </style>
+</head>
+<body>
+
+    <center><h1>Recibo de Nómina</h1></center>
+    <table style="width: 100%" >
+        <tr>
+            <td colspan="3">
+                <table style="width: 100%">
+                    <thead id="z">
+                        <tr>
+                            <th>Empresa</th>
+                            <th id="x">Empleado</th>
+                        </tr>
+                    </thead>
+                    <tbody id="y">
+                        <tr>
+                            <td>Duns: @Duns</td>
+                            <td id="x">Nombre: @Nombre @ApPaterno @ApMaterno</td>
+                        </tr>
+                        <tr>
+                            <td>Razón Social: @RazSocial</td>
+                            <td id="x">Número de Seguridad Social: @NSS</td>
+                        </tr>
+                        <tr>
+                            <td>Email: @Email</td>
+                            <td id="x">Número de Empleado: @NumEmpl</td>
+                        </tr>
+                        <tr>
+                            <td>Teléfono 1: @Tel1</td>
+                            <td id="x">CURP: @CURP</td>
+                        </tr>
+                        <tr>
+                            <td>Teléfono 2: @Tel2</td>
+                            <td id="x">RFC: @RFC</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr><td height="20"></td></tr>
+        <tr>
+            <td colspan="3">
+                <table class="border" style="width: 100%">
+                    <thead style="background-color: #D8D8D8">
+                        <tr id="z">
+                            <th>Percepciones y Deducciones</th>
+                            <!--<th>Deducción</th>-->
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @Filas
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr><td height="20"></td></tr>
+        <tr>
+            <td>
+                <table id="r" style="font-size: 140%">
+                    <tr>
+                        <td style="overflow-wrap: normal;">Periodo: </td>
+                        <td>@FechIniPdPago - @FechFinPdPago</td>
+                    </tr>
+                    <tr>
+                        <td style="overflow-wrap: normal;">Sueldo Neto:</td>
+                        <td>@SdNeto</td>
+                    </tr>
+                    <tr>
+                        <td style="overflow-wrap: normal; width: 70%">Sueldo en Letra:</td>
+                        <td style="overflow-wrap: normal; width: 1650px">@SdLetra</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,178 @@
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.exe.config
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.exe
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.pdb
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.AssemblyReference.cache
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asignacion_departamento_Eliminar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asignacion_departamento_Ingresar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asignacion_empleado_Ingresar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asingacion_empleado_Eliminar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Calculo_de_Nomina.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo_Eliminar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo_Ingresar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo_Modificar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cammbios_de_sueldo_Modificar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Eliminar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Ingresar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Modificar_Eleccion.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Modificar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Eliminar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Ingresar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Modificar_Eleccion.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Modificar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empresa_Informacion.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empresa_Modificar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empresa.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Nomina.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Menu.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Nómina_Departamento.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Nómina_Empleado.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Eliminar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Iniciar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Properties.Resources.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Modificar_Eleccion.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Modificar.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto1.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.GenerateResource.cache
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.CoreCompileInputs.cache
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.exe
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.pdb
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Recibo_Nomina.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Menu_Empleado.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\bin\Debug\itextsharp.dll
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\bin\Debug\itextsharp.xml
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.CopyComplete
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Modificar2.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Mostrar_Recibo_Nomina.resources
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\misagamer\Desktop\PRYECTO MAD\TERCERAS\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.ResolveComReference.cache
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.exe.config
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.exe
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.pdb
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\bin\Debug\itextsharp.xml
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.ResolveComReference.cache
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asignacion_departamento_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asignacion_departamento_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asignacion_empleado_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asingacion_empleado_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Calculo_de_Nomina.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo_Modificar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cammbios_de_sueldo_Modificar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Modificar_Eleccion.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Modificar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Modificar_Eleccion.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Modificar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Modificar2.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empresa_Informacion.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empresa_Modificar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empresa.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Menu_Empleado.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Mostrar_Recibo_Nomina.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Nomina.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Menu.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Nómina_Departamento.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Nómina_Empleado.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Iniciar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Properties.Resources.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Modificar_Eleccion.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Modificar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto1.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Recibo_Nomina.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.CopyComplete
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.exe
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.pdb
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Mostrar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Mostrar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Mostrar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.ReporteGeneralDeNomina.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Headcounter1.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Final\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Puesto.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.exe.config
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.exe
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.pdb
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\bin\Debug\itextsharp.xml
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.ResolveComReference.cache
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asignacion_departamento_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asignacion_departamento_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asignacion_empleado_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Asingacion_empleado_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Calculo_de_Nomina.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Modificar_Eleccion.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Modificar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento_Mostrar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Departamento.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Modificar_Eleccion.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Modificar2.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Puesto.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empleado_Mostrar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Empresa_Informacion.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Headcounter1.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Menu_Empleado.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Mostrar_Recibo_Nomina.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Nomina.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Menu.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Nómina_Departamento.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Nómina_Empleado.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Eliminar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Iniciar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Properties.Resources.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Modificar_Eleccion.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Modificar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto_Mostrar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Puesto1.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Recibo_Nomina.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.ReporteGeneralDeNomina.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.csproj.CopyComplete
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.exe
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.pdb
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_Departamento_Ingresar_Eleccion.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_Departamento_Ingresar.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_Empleado_Ingresar_Eleccion.resources
+C:\Users\Usuario\Documents\Ray\Modelos de administración de datos\Proyecto\Segundas\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Cambios_de_sueldo_Mostrar.resources

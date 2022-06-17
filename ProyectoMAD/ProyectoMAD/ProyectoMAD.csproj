@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{767A99D2-F064-4453-B26B-F551B305E08D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoMAD</RootNamespace>
+    <AssemblyName>ProyectoMAD</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.xmlworker.5.5.13.3\lib\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Asignacion departamento-Eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asignacion departamento-Eliminar.Designer.cs">
+      <DependentUpon>Asignacion departamento-Eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asignacion departamento-Ingresar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asignacion departamento-Ingresar.Designer.cs">
+      <DependentUpon>Asignacion departamento-Ingresar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asignacion empleado-Ingresar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asignacion empleado-Ingresar.Designer.cs">
+      <DependentUpon>Asignacion empleado-Ingresar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asingacion empleado-Eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asingacion empleado-Eliminar.Designer.cs">
+      <DependentUpon>Asingacion empleado-Eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculo de Nomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculo de Nomina.Designer.cs">
+      <DependentUpon>Calculo de Nomina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cambios de sueldo-Mostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cambios de sueldo-Mostrar.Designer.cs">
+      <DependentUpon>Cambios de sueldo-Mostrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cambios Departamento-Ingresar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cambios Departamento-Ingresar.Designer.cs">
+      <DependentUpon>Cambios Departamento-Ingresar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cambios Departamento-Ingresar-Eleccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cambios Departamento-Ingresar-Eleccion.Designer.cs">
+      <DependentUpon>Cambios Departamento-Ingresar-Eleccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cambios Empleado-Ingresar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cambios Empleado-Ingresar.Designer.cs">
+      <DependentUpon>Cambios Empleado-Ingresar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cambios de sueldo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cambios de sueldo.Designer.cs">
+      <DependentUpon>Cambios de sueldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cambios Empleado-Ingresar-Eleccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cambios Empleado-Ingresar-Eleccion.Designer.cs">
+      <DependentUpon>Cambios Empleado-Ingresar-Eleccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departamento-Eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departamento-Eliminar.Designer.cs">
+      <DependentUpon>Departamento-Eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departamento-Ingresar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departamento-Ingresar.Designer.cs">
+      <DependentUpon>Departamento-Ingresar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departamento-Modificar-Eleccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departamento-Modificar-Eleccion.Designer.cs">
+      <DependentUpon>Departamento-Modificar-Eleccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departamento-Modificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departamento-Modificar.Designer.cs">
+      <DependentUpon>Departamento-Modificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departamento-Mostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departamento-Mostrar.Designer.cs">
+      <DependentUpon>Departamento-Mostrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departamento.Designer.cs">
+      <DependentUpon>Departamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado-Eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado-Eliminar.Designer.cs">
+      <DependentUpon>Empleado-Eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado-Ingresar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado-Ingresar.Designer.cs">
+      <DependentUpon>Empleado-Ingresar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado-Modificar-Eleccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado-Modificar-Eleccion.Designer.cs">
+      <DependentUpon>Empleado-Modificar-Eleccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado-Modificar2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado-Modificar2.Designer.cs">
+      <DependentUpon>Empleado-Modificar2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado-Puesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado-Puesto.Designer.cs">
+      <DependentUpon>Empleado-Puesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado.Designer.cs">
+      <DependentUpon>Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado_Mostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado_Mostrar.Designer.cs">
+      <DependentUpon>Empleado_Mostrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empresa-Informacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empresa-Informacion.Designer.cs">
+      <DependentUpon>Empresa-Informacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnlaceDB.cs" />
+    <Compile Include="Headcounter1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Headcounter1.Designer.cs">
+      <DependentUpon>Headcounter1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Empleado.Designer.cs">
+      <DependentUpon>Menu Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar Recibo Nomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mostrar Recibo Nomina.Designer.cs">
+      <DependentUpon>Mostrar Recibo Nomina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nomina.Designer.cs">
+      <DependentUpon>Nomina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nómina Departamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nómina Departamento.Designer.cs">
+      <DependentUpon>Nómina Departamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nómina Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nómina Empleado.Designer.cs">
+      <DependentUpon>Nómina Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Puesto-Eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Puesto-Eliminar.Designer.cs">
+      <DependentUpon>Puesto-Eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Puesto-Ingresar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Puesto-Ingresar.Designer.cs">
+      <DependentUpon>Puesto-Ingresar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iniciar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Iniciar.Designer.cs">
+      <DependentUpon>Iniciar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Puesto-Modificar-Eleccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Puesto-Modificar-Eleccion.Designer.cs">
+      <DependentUpon>Puesto-Modificar-Eleccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Puesto-Modificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Puesto-Modificar.Designer.cs">
+      <DependentUpon>Puesto-Modificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Puesto-Mostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Puesto-Mostrar.Designer.cs">
+      <DependentUpon>Puesto-Mostrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Puesto1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Puesto1.Designer.cs">
+      <DependentUpon>Puesto1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recibo-Nomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recibo-Nomina.Designer.cs">
+      <DependentUpon>Recibo-Nomina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteGeneralDeNomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteGeneralDeNomina.Designer.cs">
+      <DependentUpon>ReporteGeneralDeNomina.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Asignacion departamento-Eliminar.resx">
+      <DependentUpon>Asignacion departamento-Eliminar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asignacion departamento-Ingresar.resx">
+      <DependentUpon>Asignacion departamento-Ingresar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asignacion empleado-Ingresar.resx">
+      <DependentUpon>Asignacion empleado-Ingresar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asingacion empleado-Eliminar.resx">
+      <DependentUpon>Asingacion empleado-Eliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculo de Nomina.resx">
+      <DependentUpon>Calculo de Nomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cambios de sueldo-Mostrar.resx">
+      <DependentUpon>Cambios de sueldo-Mostrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cambios Departamento-Ingresar-Eleccion.resx">
+      <DependentUpon>Cambios Departamento-Ingresar-Eleccion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cambios Departamento-Ingresar.resx">
+      <DependentUpon>Cambios Departamento-Ingresar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cambios Empleado-Ingresar.resx">
+      <DependentUpon>Cambios Empleado-Ingresar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cambios de sueldo.resx">
+      <DependentUpon>Cambios de sueldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cambios Empleado-Ingresar-Eleccion.resx">
+      <DependentUpon>Cambios Empleado-Ingresar-Eleccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departamento-Eliminar.resx">
+      <DependentUpon>Departamento-Eliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departamento-Ingresar.resx">
+      <DependentUpon>Departamento-Ingresar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departamento-Modificar-Eleccion.resx">
+      <DependentUpon>Departamento-Modificar-Eleccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departamento-Modificar.resx">
+      <DependentUpon>Departamento-Modificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departamento-Mostrar.resx">
+      <DependentUpon>Departamento-Mostrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departamento.resx">
+      <DependentUpon>Departamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado-Eliminar.resx">
+      <DependentUpon>Empleado-Eliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado-Ingresar.resx">
+      <DependentUpon>Empleado-Ingresar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado-Modificar-Eleccion.resx">
+      <DependentUpon>Empleado-Modificar-Eleccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado-Modificar2.resx">
+      <DependentUpon>Empleado-Modificar2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado-Puesto.resx">
+      <DependentUpon>Empleado-Puesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado.resx">
+      <DependentUpon>Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado_Mostrar.resx">
+      <DependentUpon>Empleado_Mostrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empresa-Informacion.resx">
+      <DependentUpon>Empresa-Informacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Headcounter1.resx">
+      <DependentUpon>Headcounter1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Empleado.resx">
+      <DependentUpon>Menu Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mostrar Recibo Nomina.resx">
+      <DependentUpon>Mostrar Recibo Nomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nomina.resx">
+      <DependentUpon>Nomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nómina Departamento.resx">
+      <DependentUpon>Nómina Departamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nómina Empleado.resx">
+      <DependentUpon>Nómina Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Puesto-Eliminar.resx">
+      <DependentUpon>Puesto-Eliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Puesto-Ingresar.resx">
+      <DependentUpon>Puesto-Ingresar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Iniciar.resx">
+      <DependentUpon>Iniciar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Puesto-Modificar-Eleccion.resx">
+      <DependentUpon>Puesto-Modificar-Eleccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Puesto-Modificar.resx">
+      <DependentUpon>Puesto-Modificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Puesto-Mostrar.resx">
+      <DependentUpon>Puesto-Mostrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Puesto1.resx">
+      <DependentUpon>Puesto1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recibo-Nomina.resx">
+      <DependentUpon>Recibo-Nomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteGeneralDeNomina.resx">
+      <DependentUpon>ReporteGeneralDeNomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plantilla.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
